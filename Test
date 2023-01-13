@@ -1,0 +1,17 @@
+say "Welcome to your first shell script"
+
+
+echo "Enter your name and press [ENTER]: "
+say "Enter your name and press Enterw"
+read var_name
+
+echo "Your name is: $var_name"
+say "Your name is: $var_name"
+
+echo "what is your favorite ice cream?"
+say "what is your favorite ice cream?"
+read var_icecream
+
+
+echo "Your favorite flavor is: $var_icecream"
+say "Your favorite flavor is: $var_icecream?"
